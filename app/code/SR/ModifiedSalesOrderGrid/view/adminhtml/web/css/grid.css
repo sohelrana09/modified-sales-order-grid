@@ -1,0 +1,19 @@
+td.complete {
+    background-color: #008000;
+    border: 1px solid #000000;
+}
+
+td.closed {
+    background-color: #FF0000;
+    border: 1px solid #000000;
+}
+
+td.processing {
+    background-color: #808080;
+    border: 1px solid #000000;
+}
+
+td.pending {
+    background-color: #FFA500;
+    border: 1px solid #000000;
+}
